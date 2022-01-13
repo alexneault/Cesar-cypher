@@ -1,8 +1,6 @@
-# inf3135-automne2021-tp2
+
 
 # Décryption de César TP2 
-## Auteur  
-Alex Neault NEAA02089809  
 ## Description
 Ce programme développé en C sert à décrypter un message qui a été encodé avec l'encryption de César de 3 déplacements.
 
