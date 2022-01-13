@@ -9,7 +9,7 @@ Ce programme développé en C sert à décrypter un message qui a été encodé 
 Pour installer le programme, seulement clôner le repo git sur le disque local.
 
 ```bash
-git clone https://gitlab.info.uqam.ca/neault.alex.2/inf3135-automne2021-tp2.git
+git clone https://github.com/alexneault/Cesar-cypher.git
 ```
 
 ## Utiliser le programme
